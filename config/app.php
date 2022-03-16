@@ -167,6 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Aacotroneo\Saml2\Saml2ServiceProvider::class,
 
         /*
          * Application Service Providers...
